@@ -9,8 +9,7 @@ docker logs <container-id>
 docker stats <container_id>
 docker cp <container_id>:/path/to/useful/file /local-path
 docker exec -it <container_id> /bin/bash
-#rudye@iadb.org
-#Argentina.2024
+
 
 
 # mysql https://hub.docker.com/_/mysql
